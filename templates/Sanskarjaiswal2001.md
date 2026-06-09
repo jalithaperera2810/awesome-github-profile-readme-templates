@@ -41,11 +41,11 @@
 
 <code><img height="20" src="https://img.icons8.com/nolan/96/git.png"></code> GIT
 
-<img src="https://github-readme-stats.vercel.app/api?username=sanskarjaiswal2001&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Sanskar's GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=sanskarjaiswal2001&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Jalitha's GitHub Stats">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanskarjaiswal2001&count_private=true&theme=radical" alt="SanskarJaiswal" />
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskarjaiswal2001&count_private=true&theme=radical" alt="SanskarJaiswal" />
+<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskarjaiswal2001&count_private=true&theme=radical" alt="JalithaPerera" />
 
 -----
-Credits: [Sanskarjaiswal2001](https://github.com/sanskarjaiswal2001)
+Credits: [](https://github.com/jalithaperera2810)
 
-Last Edited on: 20/06/2021
+Last Edited on: 09/06/2026
